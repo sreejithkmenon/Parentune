@@ -1,7 +1,7 @@
 # Parentune
 
 ## Introduction
-Parentune is a mobile application developed for Good Inside, designed to present Dr. Becky's content in a format of easy-to-digest "cards". This project is part of my application for the "Mobile Engineer - Flutter" role at Good Inside.
+Parentune is a mobile application developed for Good Inside, designed to present Dr. Becky's content in a format of easy-to-digest "cards". This project is part of my application for the "Mobile Engineer - Flutter" role at Good Inside. Please note that the application is designed to work exclusively on iPads.
 
 ## Setup
 To set up the project in your local environment, follow these steps:
