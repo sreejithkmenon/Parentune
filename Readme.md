@@ -7,8 +7,7 @@ Parentune is a mobile application developed for Good Inside, designed to present
 To set up the project in your local environment, follow these steps:
 1. Clone the repository to your machine.
 2. Open `Parentune.xcodeproj` in Xcode.
-3. Ensure you have all the required dependencies installed.
-4. Build and run the project using Xcode.
+3. Build and run the project using Xcode.
 
 ## Exercise Description
 The purpose of this project was to build Good Inside's first mobile application. This app visualizes data from the provided endpoint: [Good Inside Cards API](https://bff.goodinside.dev/api/p/cards). Each card contains an ID, type, and may include a title, text, label, audio, or video in short-form format. The app is designed to request and display these cards in a clear and distinguishable manner.
