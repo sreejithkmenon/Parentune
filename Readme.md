@@ -31,4 +31,4 @@ The app fetches data from the Good Inside API and displays it in the form of car
 
 ## Screenshots
 [![temp-Imageiu0ii-H.jpg](https://i.postimg.cc/TY4JXfV9/temp-Imageiu0ii-H.jpg)](https://postimg.cc/YhQW6cyG)
-
+[![temp-Image9-ANk-IK.jpg](https://i.postimg.cc/vZxLYkXd/temp-Image9-ANk-IK.jpg)](https://postimg.cc/dhvTnWzW)
